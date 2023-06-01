@@ -38,6 +38,7 @@ The code segment near the bottom of `Model.py` utilizes the PyVista library to g
      ```
 
 Feel free to explore and modify the code snippets based on your requirements, but make sure to give credit!
+I've already included files full of data from several qubits from the Perth and Manila qauntum computers for your convenience.
 
 # Final Product
 ![image description](Image/FinalDesign.jpg)
